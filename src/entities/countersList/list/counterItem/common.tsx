@@ -16,7 +16,3 @@ export const counterTypesMapping: { [key: string]: CounterType } = {
     icon: <IconCountersHot />,
   },
 };
-export const counterIsAutomaticMapping: { [key: string]: string } = {
-  true: 'да',
-  false: 'нет',
-};

@@ -4,5 +4,5 @@ export type FetchResultType = {
   count: number;
   next: string | null;
   previous: string | null;
-  results: CounterType;
+  results: Array<CounterType>;
 };

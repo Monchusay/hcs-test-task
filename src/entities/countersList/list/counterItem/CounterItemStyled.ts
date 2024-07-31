@@ -28,8 +28,9 @@ export const CounterCell = styled.div<{ $center?: boolean }>`
   overflow: hidden;
   text-overflow: ellipsis;
 `;
-export const CounterText = styled.span`
+export const CounterText = styled.span<{ $gray?: boolean }>`
+  white-space: nowrap;
   font: 14px/20px Roboto;
   font-weight: 400;
-  color: #1f2939;
+  color: ${({ $gray }) => ($gray ? '#5E6674' : '#1f2939')};
 `;
