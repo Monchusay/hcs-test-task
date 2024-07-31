@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "1",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "2",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "2",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "3",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "3",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "4",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "4",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "5",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "5",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "6",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "6",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "7",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "7",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "8",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "8",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "9",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "9",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "10",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "10",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "11",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "11",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "12",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "12",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "13",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "13",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "14",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "14",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "15",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "15",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "16",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "16",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "17",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "17",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "18",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "18",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "19",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "19",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  },
+  {
+    "id": "20",
+    "_type": "ColdWaterAreaMeter",
+    "area": {
+      "id": "20",
+      "is_automatic": false,
+      "communication": "communication",
+      "description": "description",
+      "serial_number": "serial_number",
+      "installation_date": "1321232131231",
+      "brand_name": "brand_name",
+      "model_name": "model_name",
+      "initial_values": [1213123.2131231]
+    }
+  }
+]
